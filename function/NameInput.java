@@ -43,7 +43,6 @@ public class NameInput {
 		}
 		return null;
 	}
-	
 	public static boolean checkInputName(String path){
 		//check the file selected file from its path
 		String[] s=path.split("/");
